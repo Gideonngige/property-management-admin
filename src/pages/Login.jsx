@@ -76,7 +76,7 @@ export default function Login() {
           </h1>
 
           <p className="text-center text-gray-500 mt-2">
-            Sign in to your Zein Studio account
+            Sign in to your Zen Studio account
           </p>
 
           <form onSubmit={signin} className="mt-8 space-y-5">
